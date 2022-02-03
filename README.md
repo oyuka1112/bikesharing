@@ -1,6 +1,7 @@
 # Bike Sharing Data Analysis
 - Tablaeu
 - Python
+- [link to dashboard](https://public.tableau.com/app/profile/oyun3595/viz/CitiBikeVisualization_16438697472560/Story1)
 ## Overview of the Statistical Analysis
 The customer wanted to analyze citi bikes in the NYC to open a new company. This visualization of the dataset will help the customer to give more insights of a bikesharing business and get an investment opportunities. Dataset is from citi bike august csv file. Used tablaeu public to visualize the data, and created dashboards and story presentation. 
 ## Results
